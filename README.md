@@ -129,7 +129,7 @@ The program allows a user to input:
 
 ## License
 
-This project is licensed under the **Apache-2.0 License**.
+This project is licensed under the [Apache-2.0 license](https://www.apache.org/licenses/).
 
 ---
 
