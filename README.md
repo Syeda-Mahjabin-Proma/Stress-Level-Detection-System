@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes and processes a **Sleep Health and Lifestyle dataset** to explore the relationship between sleep habits, lifestyle factors, and stress levels.
+This project analyzes and processes a **Sleep Health and Lifestyle dataset** to explore the relationship between sleep habits, lifestyle factors and stress levels.
 It applies **data preprocessing, visualization, and machine learning models** to predict a person’s stress level based on various health and lifestyle indicators.
 
 The project uses **Random Forest, Logistic Regression, and Decision Tree** classifiers to compare performance and identify the most effective prediction model.
