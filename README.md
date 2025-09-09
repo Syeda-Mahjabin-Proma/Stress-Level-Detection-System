@@ -107,7 +107,7 @@ The program allows a user to input:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/sleep-health-stress-prediction.git
+   git clone https://github.com/Syeda-Mahjabin-Proma/Stress-Level-Detection-System.git
    ```
 2. Install dependencies:
 
